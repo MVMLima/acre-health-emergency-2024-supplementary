@@ -1,4 +1,4 @@
-# Materiais Suplementares — PLOS Climate (PCLM-D-26-00100R1)
+# Materiais Suplementares
 
 **Artigo:** A multidisciplinary experience report of 2024 and 2025 health sector actions in response to health emergencies due to floods, extreme drought, and wildfires in a state of high social vulnerability in the Brazilian Amazon
 
