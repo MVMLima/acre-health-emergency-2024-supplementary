@@ -29,25 +29,6 @@ Os documentos foram obtidos por meio do acesso institucional direto (MVML, servi
 
 **Composição:** 3 memórias de reunião (S1, S4, S5) + 4 planos de ação/contingência (S2, S3, S6, S7) + 1 relatório técnico (S8)
 
----
-
-## Instrumento de Coleta (S9)
-
-| Código | Arquivo | Descrição |
-|--------|---------|-----------|
-| S9 | `S9_Formulario_Extracao_Tematica.docx` | Formulário estruturado de extração temática, aplicado independentemente por MVML e KKS Garcia |
-
-O formulário contém fichas de extração individuais para cada documento (S1–S8) e uma tabela de síntese temática por fase da emergência, organizada nas 6 categorias analíticas utilizadas no estudo.
-
----
-
-## Tabela Resultante (S10)
-
-| Código | Arquivo | Descrição |
-|--------|---------|-----------|
-| S10 | `S10_Tabela_Resultante_Analise_Tematica` | *(a ser adicionado após comparação das extrações independentes de MVML e KKS)* |
-
----
 
 ## Procedimento Analítico
 
